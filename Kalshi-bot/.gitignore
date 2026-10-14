@@ -1,0 +1,19 @@
+# Secrets — never commit these
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+logs/*.log
+*.log
+
+# OS clutter
+.DS_Store
+Thumbs.db
+shit u dont need(OLD BOT SHIT)/
